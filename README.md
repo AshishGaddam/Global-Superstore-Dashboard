@@ -12,7 +12,6 @@ An interactive sales dashboard built in Tableau to analyze performance across re
 ## 🖼️ Preview
 ![Dashboard Preview](<img width="1440" height="900" alt="Global Super Store Sales Insightful Dashboard" src="https://github.com/user-attachments/assets/f5fabaf9-bb77-4ec2-a947-f18b572e7287" />
 )
-
 ## 📁 Files Included
 - `dashboard.png` – Snapshot
 - `sample_data.csv` – Dataset sample (optional)
